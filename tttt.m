@@ -1,0 +1,1 @@
+result = q5_GetAccuracy(feature,truth,grass_prob, cheetah_prob, mu,sigma, phi,mu1,sigma1,phi1)
